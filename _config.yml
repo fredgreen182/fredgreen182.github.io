@@ -1,1 +1,25 @@
-theme: jekyll-theme-midnight
+title:              Hi I'm Fred
+email:              me@fredgreen182.com
+description:        Here's where I'll post my game, music and general ramblings
+author:             Fred
+baseurl:            "/home"
+url:                "https://www.fredgreen182.com"
+
+# Social Profiles
+bsky_username:   fredgreen182.bsky.social
+github_username:    FredGreen182
+facebook_username:
+instagram_username:  
+linkedin_username:  guillermolarrosa
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
