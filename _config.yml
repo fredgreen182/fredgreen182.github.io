@@ -1,6 +1,6 @@
-title:              Hi I'm Fred
+title:              Fred
 email:              me@fredgreen182.com
-description:        Here's where I'll post my game, music and general ramblings
+description:
 author:             Fred
 baseurl:            ""
 url:                "https://www.fredgreen182.com"
@@ -8,9 +8,8 @@ url:                "https://www.fredgreen182.com"
 # Social Profiles
 bsky_username:   fredgreen182.bsky.social
 github_username:    FredGreen182
-facebook_username:
-instagram_username:  
 linkedin_username:  guillermolarrosa
+itch_username: fredgreen182
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
